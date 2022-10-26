@@ -1,0 +1,1 @@
+# udemy_arquitetura_de_microsservicos_aspnet_net6_csharp
